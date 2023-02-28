@@ -14,7 +14,7 @@ export default class HomeView extends Vue {
 
 <template>
   <div class="home">
-    <div v-if="{step1}">
+    <div v-if="true">
       Do you 
     </div>
   </div>
